@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyecto administracion de bases de datos\\AplicacionNegocio\\AplicacionNegocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyecto administracion de bases de datos\\AplicacionNegocio\\AplicacionNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto administracion de bases de datos\\AplicacionNegocio\\AplicacionNegocio.csproj",
+        "projectName": "AplicacionNegocio",
+        "projectPath": "C:\\Proyecto administracion de bases de datos\\AplicacionNegocio\\AplicacionNegocio.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto administracion de bases de datos\\AplicacionNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Proyecto administracion de bases de datos\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Proyecto administracion de bases de datos\\BLL\\BLL.csproj"
+              },
+              "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj": {
+                "projectPath": "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyecto administracion de bases de datos\\BLL\\BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto administracion de bases de datos\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Proyecto administracion de bases de datos\\BLL\\BLL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Proyecto administracion de bases de datos\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Proyecto administracion de bases de datos\\DAL\\DAL.csproj"
+              },
+              "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj": {
+                "projectPath": "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Proyecto administracion de bases de datos\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto administracion de bases de datos\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Proyecto administracion de bases de datos\\DAL\\DAL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj": {
+                "projectPath": "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Proyecto administracion de bases de datos\\Models\\Models.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

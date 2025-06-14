@@ -1,0 +1,42 @@
+C:\Lenguajes_2025\Semana_1\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.FrmTiposCarros.resources
+C:\Lenguajes_2025\Semana_1\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.csproj.GenerateResource.cache
+C:\Lenguajes_2025\Semana_1\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lenguajes_2025\Semana_1\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.AssemblyInfoInputs.cache
+C:\Lenguajes_2025\Semana_1\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.AssemblyInfo.cs
+C:\Lenguajes_2025\Semana_1\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.csproj.CoreCompileInputs.cache
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.csproj.AssemblyReference.cache
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.AssemblyInfoInputs.cache
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.AssemblyInfo.cs
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.csproj.CoreCompileInputs.cache
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.FrmCarros.resources
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.csproj.GenerateResource.cache
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\AplicacionNegocio.exe
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\AplicacionNegocio.deps.json
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\AplicacionNegocio.runtimeconfig.json
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\AplicacionNegocio.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\AplicacionNegocio.pdb
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\BLL.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\DAL.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\Models.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\BLL.pdb
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\Models.pdb
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\DAL.pdb
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\Aplicaci.02765D6A.Up2Date
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\refint\AplicacionNegocio.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.pdb
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.genruntimeconfig.cache
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\ref\AplicacionNegocio.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.Properties.Resources.resources
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\Icons\editar-informacion.png
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\Icons\eliminar.png
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.FrmEditarCarro.resources
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\bin\Debug\net8.0-windows\Resources\back.png
+C:\Proyecto administracion de bases de datos\AplicacionNegocio\obj\Debug\net8.0-windows\AplicacionNegocio.FrmLogin.resources
