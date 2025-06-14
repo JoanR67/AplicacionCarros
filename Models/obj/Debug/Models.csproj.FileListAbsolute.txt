@@ -1,0 +1,6 @@
+C:\Proyecto administracion de bases de datos\Models\bin\Debug\Models.dll
+C:\Proyecto administracion de bases de datos\Models\bin\Debug\Models.pdb
+C:\Proyecto administracion de bases de datos\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Proyecto administracion de bases de datos\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Proyecto administracion de bases de datos\Models\obj\Debug\Models.dll
+C:\Proyecto administracion de bases de datos\Models\obj\Debug\Models.pdb
